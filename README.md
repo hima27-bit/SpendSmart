@@ -176,8 +176,8 @@ python-dotenv>=1.0.0
 B.Tech Computer Science and Engineering (Big Data Analytics)
 SRM Institute of Science and Technology, Chennai
 
-[![GitHub](https://img.shields.io/badge/GitHub-himasai-black?logo=github)](https://github.com/himasai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-himasai-blue?logo=linkedin)](https://linkedin.com/in/himasai)
+[![GitHub](https://img.shields.io/badge/GitHub-himasai-black?logo=github)](https://github.com/hima-27bit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-himasai-blue?logo=linkedin)](https://linkedin.com/in/himasai-naik)
 
 ---
 
