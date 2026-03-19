@@ -1,0 +1,107 @@
+Date,Category,Amount,Description
+2025-12-19,Healthcare,592.09,Vitamins
+2025-12-20,Healthcare,425.77,Doctor visit
+2025-12-21,Food & Dining,1181.66,Zomato delivery
+2025-12-22,Food & Dining,1034.26,Coffee shop
+2025-12-22,Others,176.72,Donation
+2025-12-23,Others,189.37,Gift
+2025-12-23,Others,265.77,ATM withdrawal
+2025-12-24,Utilities,1637.96,Water bill
+2025-12-25,Others,623.85,Gift
+2025-12-26,Healthcare,868.17,Pharmacy
+2025-12-27,Shopping,1217.44,Electronics
+2025-12-29,Utilities,694.55,Electricity bill
+2025-12-29,Shopping,1778.38,Clothes
+2025-12-30,Transport,133.08,Bus ticket
+2025-12-31,Others,373.72,Gift
+2026-01-01,Shopping,1474.8,Amazon order
+2026-01-01,Entertainment,840.43,OTT subscription
+2026-01-02,Shopping,1195.66,Clothes
+2026-01-03,Entertainment,264.06,Movie tickets
+2026-01-03,Transport,61.91,Uber ride
+2026-01-03,Transport,329.38,Petrol fill
+2026-01-04,Food & Dining,1247.04,Restaurant dinner
+2026-01-04,Shopping,1526.14,Accessories
+2026-01-04,Transport,378.51,Ola cab
+2026-01-05,Entertainment,867.88,OTT subscription
+2026-01-05,Shopping,1804.88,Electronics
+2026-01-06,Others,508.35,Donation
+2026-01-06,Transport,167.72,Bus ticket
+2026-01-07,Utilities,482.85,Internet plan
+2026-01-07,Others,579.51,Donation
+2026-01-08,Shopping,2790.36,Amazon order
+2026-01-09,Others,546.11,Donation
+2026-01-10,Healthcare,452.02,Vitamins
+2026-01-12,Food & Dining,947.83,Restaurant dinner
+2026-01-12,Shopping,2158.81,Books
+2026-01-12,Shopping,949.47,Accessories
+2026-01-13,Healthcare,631.18,Doctor visit
+2026-01-14,Healthcare,243.17,Lab tests
+2026-01-16,Education,565.98,Stationery
+2026-01-18,Food & Dining,716.87,Mess bill
+2026-01-19,Food & Dining,1277.07,Coffee shop
+2026-01-19,Education,1083.05,Online course
+2026-01-20,Healthcare,836.96,Vitamins
+2026-01-20,Utilities,1744.49,Internet plan
+2026-01-22,Education,366.64,Textbooks
+2026-01-23,Education,363.14,Textbooks
+2026-01-23,Shopping,2103.85,Books
+2026-01-24,Food & Dining,469.7,Coffee shop
+2026-01-25,Healthcare,495.83,Doctor visit
+2026-01-25,Food & Dining,753.46,Mess bill
+2026-01-25,Transport,123.54,Metro pass
+2026-01-27,Entertainment,401.9,OTT subscription
+2026-01-28,Education,381.46,Stationery
+2026-01-28,Others,348.29,ATM withdrawal
+2026-01-28,Food & Dining,1853.8,Mess bill
+2026-01-29,Transport,256.97,Petrol fill
+2026-01-29,Food & Dining,314.58,Coffee shop
+2026-01-29,Food & Dining,1450.66,Coffee shop
+2026-01-31,Education,1156.71,Udemy course
+2026-01-31,Food & Dining,1488.81,Coffee shop
+2026-02-02,Transport,218.81,Uber ride
+2026-02-02,Transport,74.59,Bus ticket
+2026-02-02,Entertainment,283.8,OTT subscription
+2026-02-04,Shopping,1932.11,Clothes
+2026-02-05,Education,1291.39,Udemy course
+2026-02-05,Education,1299.82,Udemy course
+2026-02-07,Food & Dining,1967.13,Grocery run
+2026-02-09,Healthcare,65.09,Pharmacy
+2026-02-10,Entertainment,845.2,Spotify
+2026-02-10,Food & Dining,1340.71,Restaurant dinner
+2026-02-11,Others,264.81,Gift
+2026-02-12,Entertainment,836.12,OTT subscription
+2026-02-12,Healthcare,432.95,Doctor visit
+2026-02-12,Entertainment,956.29,Gaming
+2026-02-13,Education,238.11,Online course
+2026-02-16,Healthcare,324.51,Doctor visit
+2026-02-19,Education,1103.49,Udemy course
+2026-02-20,Utilities,1601.72,Mobile recharge
+2026-02-21,Transport,447.0,Metro pass
+2026-02-22,Healthcare,1067.11,Pharmacy
+2026-02-23,Education,545.07,Stationery
+2026-02-23,Others,208.72,Gift
+2026-02-24,Education,840.84,Online course
+2026-02-25,Shopping,1687.73,Clothes
+2026-02-26,Others,129.95,ATM withdrawal
+2026-02-27,Others,51.6,ATM withdrawal
+2026-03-01,Transport,233.88,Metro pass
+2026-03-01,Utilities,846.9,Mobile recharge
+2026-03-02,Shopping,2161.54,Clothes
+2026-03-02,Utilities,675.34,Mobile recharge
+2026-03-03,Food & Dining,1915.55,Restaurant dinner
+2026-03-03,Shopping,348.69,Clothes
+2026-03-04,Shopping,1500.1,Books
+2026-03-05,Shopping,1468.17,Accessories
+2026-03-05,Entertainment,316.22,Gaming
+2026-03-06,Transport,142.9,Metro pass
+2026-03-07,Others,699.21,Donation
+2026-03-07,Transport,343.91,Metro pass
+2026-03-08,Education,1017.11,Online course
+2026-03-09,Education,1676.37,Online course
+2026-03-11,Healthcare,448.58,Pharmacy
+2026-03-11,Food & Dining,715.95,Grocery run
+2026-03-11,Healthcare,1363.39,Doctor visit
+2026-03-13,Entertainment,983.8,Gaming
+2026-03-16,Transport,466.56,Ola cab
+2026-03-17,Transport,114.8,Uber ride
